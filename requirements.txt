@@ -1,0 +1,5 @@
+mysql==0.0.3
+mysql-connector==2.2.9
+investpy==1.0.7
+scikit-learn==1.0
+shap==0.40.0
